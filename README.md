@@ -1,7 +1,5 @@
 # Animais Fantásticos
 
-![Versão](https://img.shields.io/badge/version-1.1.0)
-
 ## Descrição
 
 Um simples projeto envolvendo HTML, CSS e Javascript
@@ -11,4 +9,4 @@ Um simples projeto envolvendo HTML, CSS e Javascript
 
 ## Link do site
 
-URL: [Animais-Fantásticos]()
+URL: [Animais-Fantásticos](https://matheusrenner22.github.io/animais-fantasticos/)
